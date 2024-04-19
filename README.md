@@ -1,1 +1,1 @@
-# seismic-bumps-analysis
+# Seismic-bumps Analysis
